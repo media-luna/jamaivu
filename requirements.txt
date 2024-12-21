@@ -1,0 +1,11 @@
+-i https://pypi.org/simple
+certifi==2024.12.14; python_version >= '3.6'
+charset-normalizer==3.4.0; python_full_version >= '3.7.0'
+idna==3.10; python_version >= '3.6'
+pyaes==1.6.1
+pyasn1==0.6.1; python_version >= '3.8'
+pydub==0.25.1
+requests==2.32.3; python_version >= '3.8'
+rsa==4.9; python_version >= '3.6' and python_version < '4'
+telethon==1.38.1; python_version >= '3.5'
+urllib3==2.2.3; python_version >= '3.8'

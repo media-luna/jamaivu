@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+telethon = "*"
+pydub = "*"
+
+[dev-packages]
+# pytest-cov = "==3.*"
+pytest = "*"
+flake8 = "*"
